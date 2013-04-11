@@ -1,0 +1,18 @@
+This program was originally made by Tobias Kramer in 1999 and
+distributed under the GNU General Public License.
+For some reason his program went oddly missing and I could only
+recover this really awesome demonstration in the Internet Archive.
+This version includes some fixes to make it work with today's libraries (2013)
+
+Dependencies:
+	Mesa + GLUT: libglut, libMesaGLU, libMesaGL
+	X11: libXmu, libXi, libXext, libX11 (likely preinstalled on your linux)
+
+How to compile:
+	./configure
+	make
+
+Run:
+	The binary is in ./kepler, so use ./kepler/kepler
+
+You can also see this program in action in the "Kepler Museum" in Weil der Stadt, Germany
