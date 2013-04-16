@@ -10,6 +10,7 @@ Dependencies:
 
 How to compile:
 	./configure
+	cd kepler
 	make
 
 Run:
